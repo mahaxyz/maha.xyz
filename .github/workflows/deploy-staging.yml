@@ -38,4 +38,3 @@ jobs:
           branch: gh-pages
           folder: out
           repository-name: mahaxyz/staging.maha.xyz
-          token: ${{ secrets.ACCESS_TOKEN }}
